@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">harushiksa</string>
+    <string-array name="filter_options">
+        <item>전체</item>
+        <item>월별</item>
+        <item>주간</item>
+    </string-array>
+</resources>
