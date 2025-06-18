@@ -33,15 +33,6 @@
 - XML 기반 UI 레이아웃
 - 내부 저장소 및 Uri를 활용한 이미지 저장/로드
 
-## 프로젝트 구조
-
-harushiksa/
-├── app/
-│ ├── java/com/example/harushiksa
-│ ├── res/layout (activity, item XML 등)
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
 
 ## 실행 방법
 
